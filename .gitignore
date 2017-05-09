@@ -30,3 +30,4 @@ sysinfo.txt
 *.unitypackage
 login
 *.xcf
+*.keystore
